@@ -18,6 +18,6 @@ A daily planner that schedules what to do for that day. The date for that day is
 Aaron Whitney
 
 # Link & Screen Shot
-![Workday Scheduler](https://mapalacio19.github.io/work-day/)
+[Workday Scheduler](https://mapalacio19.github.io/work-day/)
 ![Capture](https://user-images.githubusercontent.com/84938967/131069707-e309747a-6e0b-4387-8cdd-27180fd4b1d8.JPG)
 
