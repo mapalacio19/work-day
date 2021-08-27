@@ -14,7 +14,7 @@ A daily planner that schedules what to do for that day. The date for that day is
 * CSS
 * Javascript
 
-# Woked with
+# Worked with
 Aaron Whitney
 
 # Link & Screen Shot
